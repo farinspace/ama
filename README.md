@@ -1,4 +1,4 @@
-# holman/ama
+# farinspace/ama
 
 A repository to ask [@farinspace](https://twitter.com/farinspace) anything.
 
